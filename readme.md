@@ -6,6 +6,11 @@
 ## 📄 Descripción
 Este proyecto se centra en el análisis de opiniones de productos vendidos en una plataforma de e-commerce. Utilizando técnicas de Análisis Exploratorio de Datos (EDA) y Modelado de Sentimientos, el objetivo es identificar patrones de satisfacción del cliente y áreas de mejora para los productos. El análisis se basa en un conjunto de datos de reseñas de productos, incluyendo calificaciones y texto de reseñas.
 
+
+## 👥 Team leader 
+- **Johanna Tarabelli** - Team leader
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/Johanna-Tarabelli/)
+
 ## 👥 Colaboradores
 - **Franco Gabriel Iribarne** - Data Scientist Principal / Líder de Proyecto
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/franco-gabriel-iribarne/)
