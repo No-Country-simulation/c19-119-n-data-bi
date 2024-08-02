@@ -28,8 +28,6 @@ Este proyecto se centra en el análisis de opiniones de productos vendidos en un
   - Scikit-learn ![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-blue)
 - Jupyter Notebooks ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-orange)
 
-## 🔗 Enlaces del Proyecto
-- [![GitHub](https://img.shields.io/badge/Repository-GitHub-black)](https://github.com/No-Country-simulation/c19-119-n-data-bi.git)
 
 
 ## 📝 Instrucciones para Utilizar el Archivo Jupyter Notebook
