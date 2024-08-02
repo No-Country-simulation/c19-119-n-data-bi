@@ -26,8 +26,6 @@ Este proyecto se centra en el análisis de opiniones de productos vendidos en un
   - Matplotlib ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)
   - Seaborn ![Seaborn](https://img.shields.io/badge/Library-Seaborn-blue)
   - Scikit-learn ![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-blue)
-  - NLTK ![NLTK](https://img.shields.io/badge/Library-NLTK-blue)
-  - SpaCy ![SpaCy](https://img.shields.io/badge/Library-SpaCy-blue)
 - Jupyter Notebooks ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-orange)
 
 ## 🔗 Enlaces del Proyecto
