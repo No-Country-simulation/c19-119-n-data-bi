@@ -13,7 +13,7 @@ Este proyecto se centra en el análisis de opiniones de productos vendidos en un
 
 ## 👥 Colaboradores
 - **Franco Gabriel Iribarne** - Data Scientist Principal / Líder de Proyecto
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/franco-gabriel-iribarne/)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/franco-gabriel-iribarne-4101a32ab/)
 - **Maribel Mesa Yepes** - Especialista en Visualización de Datos / Científica de Datos
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/maribel-mesa-yepes/)
 - **Diego Euler** - Ingeniero de Datos / Analista de Datos
