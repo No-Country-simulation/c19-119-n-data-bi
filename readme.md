@@ -36,6 +36,11 @@ Este proyecto se centra en el análisis de opiniones de productos vendidos en un
 - Jupyter Notebooks ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-orange)
 
 
+<div align="center">
+  <img src="No_Country.jpg" alt="No Country">
+</div>
+
+
 
 ## 📝 Instrucciones para Utilizar el Archivo Jupyter Notebook
 
