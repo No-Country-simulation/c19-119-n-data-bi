@@ -7,6 +7,11 @@
 Este proyecto se centra en el análisis de opiniones de productos vendidos en una plataforma de e-commerce. Utilizando técnicas de Análisis Exploratorio de Datos (EDA) y Modelado de Sentimientos, el objetivo es identificar patrones de satisfacción del cliente y áreas de mejora para los productos. El análisis se basa en un conjunto de datos de reseñas de productos, incluyendo calificaciones y texto de reseñas.
 
 
+<div align="center">
+  <img src="proceso.jpg" alt="Proceso de Análisis de Opiniones de Productos">
+</div>
+
+
 ## 👥 Team leader 
 - **Johanna Tarabelli** - Team leader
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/Johanna-Tarabelli/)
@@ -18,6 +23,8 @@ Este proyecto se centra en el análisis de opiniones de productos vendidos en un
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/maribel-mesa-yepes/)
 - **Diego Euler** - Ingeniero de Datos / Analista de Datos
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/diego-eduardo-euler-4546651ba/)
+
+
 
 ## 💻 Tecnologías
 - Python
